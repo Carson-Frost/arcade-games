@@ -7,6 +7,8 @@ It features a **main menu** where the player can choose between three classic-st
 The project was made in Java, using Java swing, although the project code is a bit rough in places.
 This was my first time ever making a game (although simple) and the first time actually dealing with the consequences of not corectly using version control, but I learned a lot and had a ton of fun building it.
 
+Note: I copied project to this repository from class repo, so actual git history won't be visible.
+
 ![Main Menu](images/menu.png)
 
 ## How It Works
